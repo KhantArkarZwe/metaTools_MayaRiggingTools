@@ -1,15 +1,17 @@
 # Maya Rigging Tools
 
-This page collects my main Technical Artist / Rigging tool projects.
+このページでは、Technical Artist / Rigging 分野における私の主なツール制作プロジェクトをまとめています。
 
 ## Auto Limb Rigger v0.2
-Automated IK/FK limb rigging tool for biped and quadruped characters in Maya.
+
+Maya 上で、二足歩行・四足歩行キャラクター向けの IK/FK 手足リグを自動構築するリギングツールです。
 
 Repository:
 https://github.com/KhantArkarZwe/Auto-Limb-Rigger
 
 ## Reverse Foot Rigger
-Automated reverse foot setup tool with animator-facing foot roll attributes.
+
+アニメーターが直感的に操作できるフットロール用アトリビュートを備えた、リバースフットセットアップ自動化ツールです。
 
 Repository:
 https://github.com/KhantArkarZwe/Reverse-Foot-Rigger

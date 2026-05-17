@@ -1,6 +1,6 @@
 # Maya Rigging Tools
 
-このページでは、Technical Artist / Rigging 分野における私の主なツール制作プロジェクトをまとめています。
+このページでは、リギング / テクニカルアート 分野における私の主なツール制作プロジェクトをまとめています。
 
 ## Auto Limb Rigger v0.2
 
